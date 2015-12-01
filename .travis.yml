@@ -1,2 +1,2 @@
-language: csharp
+language: cpp
 script: g++ code.cpp
