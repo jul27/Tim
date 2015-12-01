@@ -3,5 +3,5 @@
 int main()
 {
 	printf("Hello World!");
-	ruturn 0;
+	ruturn;
 }
